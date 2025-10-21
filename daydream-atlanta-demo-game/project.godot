@@ -10,10 +10,12 @@ config_version=5
 
 [application]
 
-config/name="Daydream Atlanta Demo Game"
+config/name="One Shall Fall"
 run/main_scene="uid://bx2yeuiv68aux"
 config/features=PackedStringArray("4.5", "Mobile")
-config/icon="res://Assets/icon.svg"
+config/icon="uid://bq638whla7rji"
+config/macos_native_icon="uid://c46t1pd1asabd"
+config/windows_native_icon="uid://bq638whla7rji"
 
 [autoload]
 

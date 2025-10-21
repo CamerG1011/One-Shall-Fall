@@ -11,7 +11,7 @@ var messages = [
 	"Audio by Allen Hu",
 	"Art by Keoni Morris",
 	"Daydream Atlanta - 2025",
-	"ONE MUST FALL"
+	"ONE SHALL FALL"
 ]
 
 var index := 0

@@ -468,7 +468,7 @@ offset_bottom = 4.0
 theme_override_colors/default_color = Color(0.9923422, 0.2758541, 0.4760942, 1)
 theme_override_fonts/normal_font = ExtResource("1_x3sen")
 theme_override_font_sizes/normal_font_size = 300
-text = "ONE MUST FALL"
+text = "ONE SHALL FALL"
 horizontal_alignment = 1
 vertical_alignment = 1
 

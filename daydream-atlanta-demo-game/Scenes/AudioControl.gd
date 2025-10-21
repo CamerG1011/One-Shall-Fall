@@ -11,16 +11,16 @@ const WORD_DELAY = 0
 # First sequence: "Sacrifices must be made"
 var sequence_1 = [
 	{ "word": "Sacrifices", "audio": "res://Assets/Sacrifices.ogg", "color": "white" },
-	{ "word": "must",       "audio": "res://Assets/must.ogg",       "color": "white" },
-	{ "word": "be",         "audio": "res://Assets/be.ogg",         "color": "white" },
+	{ "word": "must",       "audio": "res://Assets/Must.ogg",       "color": "white" },
+	{ "word": "be",         "audio": "res://Assets/Be.ogg",         "color": "white" },
 	{ "word": "made",       "audio": "res://Assets/made.ogg",       "color": "white" },
 ]
 
 # Second sequence: "Sacrifices WERE made"
 var sequence_2 = [
-	{ "word": "Sacrifices", "audio": "res://Assets/sacrifices.ogg", "color": "white" },
-	{ "word": "WERE",       "audio": "res://Assets/were.ogg",       "color": "red" },
-	{ "word": "made",       "audio": "res://Assets/made.ogg",       "color": "white" },
+	{ "word": "Sacrifices", "audio": "res://Assets/Sacrifices.ogg", "color": "white" },
+	{ "word": "WERE",       "audio": "res://Assets/Were.ogg",       "color": "red" },
+	{ "word": "made",       "audio": "res://Assets/Made.ogg",       "color": "white" },
 ]
 
 func _ready():
